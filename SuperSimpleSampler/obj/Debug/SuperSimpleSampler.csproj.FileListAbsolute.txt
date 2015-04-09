@@ -1,0 +1,14 @@
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\Sampling\SuperSimpleSampler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\Sampling\SuperSimpleSampler\bin\SuperSimpleSampler.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\Sampling\SuperSimpleSampler\bin\SuperSimpleSampler.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\Sampling\SuperSimpleSampler\bin\Sampling.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\Sampling\SuperSimpleSampler\bin\Sampling.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\Sampling\SuperSimpleSampler\obj\Debug\SuperSimpleSampler.dll
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\Sampling\SuperSimpleSampler\obj\Debug\SuperSimpleSampler.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\SuperSimpleSampler\bin\SuperSimpleSampler.dll
+C:\Users\Aaron\Dropbox\Programming\Sampling\SuperSimpleSampler\bin\SuperSimpleSampler.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\SuperSimpleSampler\bin\Sampling.dll
+C:\Users\Aaron\Dropbox\Programming\Sampling\SuperSimpleSampler\bin\Sampling.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\SuperSimpleSampler\obj\Debug\SuperSimpleSampler.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Dropbox\Programming\Sampling\SuperSimpleSampler\obj\Debug\SuperSimpleSampler.dll
+C:\Users\Aaron\Dropbox\Programming\Sampling\SuperSimpleSampler\obj\Debug\SuperSimpleSampler.pdb

@@ -1,0 +1,14 @@
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampler\bin\Debug\Sampler.exe
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampler\bin\Debug\Sampler.pdb
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampler\bin\Debug\Sampling.dll
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampler\bin\Debug\Sampling.pdb
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampler\obj\x86\Debug\Sampler.exe
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampler\obj\x86\Debug\Sampler.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampler\obj\x86\Debug\Sampler.exe
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampler\obj\x86\Debug\Sampler.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampler\bin\Debug\Sampler.exe
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampler\bin\Debug\Sampler.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampler\bin\Debug\Sampling.dll
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampler\bin\Debug\Sampling.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampler\obj\x86\Debug\Sampler.csprojResolveAssemblyReference.cache

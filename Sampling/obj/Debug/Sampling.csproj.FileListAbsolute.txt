@@ -1,0 +1,9 @@
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampling\bin\Debug\Sampling.dll
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampling\bin\Debug\Sampling.pdb
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampling\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampling\obj\Debug\Sampling.dll
+c:\users\aschroed\documents\visual studio 2010\Projects\Sampling\Sampling\obj\Debug\Sampling.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampling\bin\Debug\Sampling.dll
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampling\bin\Debug\Sampling.pdb
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampling\obj\Debug\Sampling.dll
+C:\Users\Aaron\Dropbox\Programming\Sampling\Sampling\obj\Debug\Sampling.pdb
